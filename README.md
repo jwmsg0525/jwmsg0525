@@ -19,6 +19,6 @@
 ## Personal GITLAB Service
 정재완의 git 저장소를 github 에서 개인 gitlab 으로 이전합니다. (2022-12-01 부터)<br>
 아래 바로가기를 클릭하면 개인 gitlab 서비스에 접속하실 수 있습니다.<br>
-[JWMSG GITLAB](https://git.jwmsg.me) 
-[JWMSG GITLAB 공개프로젝트 목록](https://git.jwmsg.me/explore)
-[JWMSG GITLAB 개인 프로필](https://git.jwmsg.me/jaewan)
+[JWMSG GITLAB](https://git.jwmsg.me) <br>
+[JWMSG GITLAB 공개프로젝트 목록](https://git.jwmsg.me/explore) <br>
+[JWMSG GITLAB 개인 프로필](https://git.jwmsg.me/jaewan) <br>
